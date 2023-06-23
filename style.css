@@ -1,0 +1,30 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel img{
+    width:100%;
+}
+
+.travel{
+    border-style:dashed;
+    border-radius:10px;
+    border-width:1px;
+    border-color: darkslategrey;
+}
+
+.movie_head {
+font-size: 20px;
+padding: 22px 6px;
+border-radius: 10px;
+margin-bottom: 10px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+color: orange;
+}
